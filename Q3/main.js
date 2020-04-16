@@ -1,5 +1,5 @@
 function newfunction(){
-fetch('https://mehakgill2470.github.io/COMP1073FinalExam/Q3/loadcat.json')
+fetch('https://mehakgill2470.github.io/COMP1073FinalExam/Q3/cats.json')
 .then((resp) => resp.json())
 .then(function(data) {
 
